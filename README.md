@@ -9,9 +9,12 @@
 Hi 👋  
 <h3>Features<h3/>
 
-* <strong>HTML: </strong>Structure of the game.
-* <strong>CSS: </strong>Styling for a visually appealing layout.
-* <strong>JavaScript: </strong>Game logic and interactivity.
+* <strong>HTML: </strong>
+Structure of the game.
+* <strong>CSS: </strong>
+Styling for a visually appealing layout.
+* <strong>JavaScript: </strong>
+Game logic and interactivity.
 
 
 ## Technologies Used
