@@ -1,24 +1,24 @@
 # Memory Game
 
-<img src='https://raw.githubusercontent.com/HassanYasir/Memory_game/refs/heads/main/Readme_content/game_view.png' alt='game-view' width='650'  align='center'/>
+<img src='https://raw.githubusercontent.com/HassanYasir/Memory_game/refs/heads/main/Readme_content/game_view.png' alt='game-view' width='600'  align='center'/>
 
 **Match Image Game is an interactive web-based game built using HTML, CSS, and JavaScript. The goal is to match pairs of images cards to sharpen your memory. Perfect for sharpening your memory and having fun!.**
 
 ## About the game
 
 Hi 👋  
-**Features**
+__Technologies__ __Used__
 
-* **HTML:**Structure of the game.
-* **CSS:**Styling for a visually appealing layout.
-* **JavaScript:**Game logic and interactivity.
+* __HTML:__ Structure of the game.
+* __CSS:__ Styling for a visually appealing layout.
+* __JavaScript:__ Game logic and interactivity.
 
 
-## Technologies Used
+## Features
 
-* **Responsive Design:**Playable on various devices (desktop, tablet, mobile).
-* **User-Friendly Interface:**Simple and intuitive layout.
-* **Dynamic Game Logic:**Randomized images each time you play.
+* __Responsive__ __Design:__ Playable on various devices (desktop, tablet, mobile).
+* __User-Friendly__ __Interface:__ Simple and intuitive layout.
+* __Dynamic__ __Game__ __Logic:__ Randomized images each time you play.
 
 ## Installation
 
