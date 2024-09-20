@@ -9,19 +9,16 @@
 Hi 👋  
 <h3>Features<h3/>
 
-* <strong>HTML: </strong>
-Structure of the game.
-* <strong>CSS: </strong>
-Styling for a visually appealing layout.
-* <strong>JavaScript: </strong>
-Game logic and interactivity.
+* **HTML: **Structure of the game.
+* **CSS: **Styling for a visually appealing layout.
+* **JavaScript: **Game logic and interactivity.
 
 
 ## Technologies Used
 
-* <strong>Responsive Design: </strong>Playable on various devices (desktop, tablet, mobile).
-* <strong>User-Friendly Interface: </strong>Simple and intuitive layout.
-* <strong>Dynamic Game Logic: </strong>Randomized images each time you play.
+* **Responsive Design: **Playable on various devices (desktop, tablet, mobile).
+* **User-Friendly Interface: **Simple and intuitive layout.
+* **Dynamic Game Logic: **Randomized images each time you play.
 
 ## Installation
 
